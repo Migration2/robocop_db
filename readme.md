@@ -6,7 +6,7 @@ Base de datos del proyecto estaciones remotas de seguridad (robocop)
 
 **Modelo entidad relación**
 
-![entidad_relacion](assets/database.png)
+![entidad_relacion](assets/robocop_db.png)
 
 **Tablas**
 
