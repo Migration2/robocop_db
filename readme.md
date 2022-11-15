@@ -34,6 +34,10 @@ Base de datos del proyecto estaciones remotas de seguridad (robocop)
 
 - users: Tabla con los usuarios del sistema
 
+- user_roles: Tabla con relación de roles y usuarios
+
+- refreshtoken: Tabla con token de JWT
+
 - users_stations: Tabla con los permisos de acceso para visualizar información de estaciones en particular para los usuarios generales
 
 **Como Ejecutar**
